@@ -6,7 +6,7 @@
 /*   By: sbrito <sbrito@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/15 15:20:14 by sbrito            #+#    #+#             */
-/*   Updated: 2024/05/22 17:39:13 by sbrito           ###   ########.fr       */
+/*   Updated: 2024/05/22 18:25:31 by sbrito           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,7 @@
 //# include <sys/wait.h>	//wait = waits until child terminates
 						//waitpid = waits until specified process terminates
 
-//UTILS.C
+//TOOLS.C
 char	*get_path(char *cmd, char **env);
 
 #endif
